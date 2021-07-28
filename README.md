@@ -4,4 +4,4 @@ In this code, we will educate a taxi agent which pick up the passenger(from a ra
 
 NOTE: The last section of code is for the visualization of the *learned* smart agent; which outputs too many visuals. Consider this if you will run it.
 
-This code is written in the light of this tutorial series: https://thomassimonini.medium.com/q-learning-lets-create-an-autonomous-taxi-part-2-2
+This code is written in the light of this tutorial series: https://thomassimonini.medium.com/q-learning-lets-create-an-autonomous-taxi-part-2-2-8cbafa19d7f5
